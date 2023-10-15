@@ -1,3 +1,4 @@
+### [😀Click Here to joins US](https://ngcodex.com/dev-session/#newuser)
 # Film Finder
 
 Film Finder is a cutting-edge movie search application that seamlessly merges creative excellence with state-of-the-art technologies. Leveraging React.js for its dynamic user interface, Redux Toolkit for robust state management, Material UI for sleek design elements, and Alan AI for innovative voice functionalities, the app delivers an unparalleled user experience.
@@ -109,3 +110,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+### [😀Click Here to joins US](https://ngcodex.com/dev-session/#newuser)
